@@ -61,4 +61,4 @@ Interpolation and fitting algorithms are fundamental in:
 
 Numerical methods provide **approximate yet accurate** solutions within defined error bounds. 
 
----
+
