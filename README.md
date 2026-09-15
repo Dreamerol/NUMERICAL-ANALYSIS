@@ -1,3 +1,13 @@
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">
   <a href="https://github.com/Dreamerol/PORTFOLIO"
      title="View Numerical Analysis in my Portfolio - Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer • Software Engineer">
