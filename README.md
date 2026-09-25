@@ -209,10 +209,16 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 <br>
 
-
 <br>
 
 
+
+
+
+<div align="left">
+
+
+<div align="left">
 
 
 
@@ -293,6 +299,12 @@ Interpolation and fitting algorithms are fundamental in:
 
 Numerical methods provide **approximate yet accurate** solutions within defined error bounds. 
 
+
+
+
+</div>
+
+</div>
 
 
 
